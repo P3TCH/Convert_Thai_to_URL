@@ -26,7 +26,7 @@ def urltothai(url):
 def __main__():
 	print('================================================')
 	print('   Welcome to Thai Character to URL Converter')
-	print('                Create by: P3TCH')
+	print('                Create by: P3TCH  v0.0.2')
 	print('================================================')
 	print()
 	print('Select Option: ')
